@@ -7,3 +7,47 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     
 }
+.section2{
+    display: flex;
+    width: 100%;
+}
+.section2 div{
+     margin-right: 10px;
+}
+.first_div{
+    width: 33%;
+
+}
+.second_div{
+    width: 34%;
+}
+.third_div{
+    width: 33%;
+}
+.section_2image{
+    width: 100%;
+}
+.section_image2{
+    width: 100%;
+}
+.section_image3{
+    width: 100%;
+}
+.section3_images{
+    display: flex;
+    width: 100%;
+}
+.section3_image1{
+    width: 95%;
+}
+.section3_image2{
+    width: 95%;
+
+}
+
+.style1{
+    width: 50%;
+}
+.style2{
+    width: 50%;
+}
