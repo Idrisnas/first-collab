@@ -54,3 +54,47 @@ body {
 .nav_bottom > ul  li{
     margin: 40px 18px;
 }
+.mywork{
+    width: 80%;
+    margin: auto;
+}
+.text{
+    text-align: center;
+}
+.imageandtext {
+    display: flex;
+    padding: 100px 20px 30px 60px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.myimage_img {
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.text_2 {
+    padding-left: 30px;
+    padding-right: 90px;
+}
+.text_2 h3 {
+    font-size: 38px;
+}
+.text_2 p {
+    font-size: 15px;
+    padding-top: 30px;
+}
+.text_2 span {
+    font-weight: bolder;
+}
+.text_2 p:nth-child(3){
+    padding-top: 15px;
+    font-size: 10px;
+}
+
+.image_text_btn{
+    padding: 17px 30px;
+    background-color: #ffbc0d;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 15px;
+}
